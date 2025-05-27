@@ -1,0 +1,12 @@
+{
+  "sword": {
+    "name": "Steel Sword",
+    "desc": "Sharp and shiny!",
+    "price": 10
+  },
+  "shield": {
+    "name": "Iron Shield",
+    "desc": "Protect yourself.",
+    "price": 15
+  }
+}
